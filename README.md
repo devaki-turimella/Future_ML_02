@@ -49,17 +49,17 @@ Confusion Matrix,
 Class-wise performance analysis.
 
 Ticket Types
--Technical issue
--Billing inquiry
--Cancellation request
--Product inquiry
--Refund request
+- Technical issue
+- Billing inquiry
+- Cancellation request
+- Product inquiry
+- Refund request
 
 Priority Levels
--Critical
--High
--Medium
--Low
+- Critical
+- High
+- Medium
+- Low
 
 Results
 
