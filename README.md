@@ -72,7 +72,7 @@ Results
 |---------------------|---------------------|--------------------|
 | Naive Bayes         | ~% 19.01            | ~% 24.91           |
 | Logistic Regression | ~% 19.42            | ~% 25.03           |
-| Random Forest       | ~%                  | ~% 25.05           |
+| Random Forest       | ~% 19.60            | ~% 25.05           |
 
 Live Prediction
 
