@@ -17,13 +17,11 @@ Dataset Source: https://www.kaggle.com/datasets/suraj520/customer-support-ticket
 Project Workflow
 
 1. Data Loading & Exploration
-
 Loaded and inspected the dataset (8,469 tickets)
 Checked for missing values
 Analyzed distribution of ticket types and priorities
 
 2. Text Cleaning
-
 Applied NLP preprocessing steps:
 Converted text to lowercase
 Removed punctuation and special characters
@@ -31,12 +29,10 @@ Removed stopwords (common words like "the", "is", "a")
 Applied stemming to reduce words to their root form
 
 3. Feature Extraction
-
 Used TF-IDF Vectorizer (top 5000 features, unigrams + bigrams)
 Converted cleaned ticket text into numerical features that ML models can understand
 
 4. Model Building
-
 Two separate classification tasks were trained:
 Ticket Type Classification — predicts the category of a ticket
 Ticket Priority Prediction — predicts the urgency level
